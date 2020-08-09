@@ -4,3 +4,4 @@
 # modelmaking.ipynb to see the model training
 # I  have created my own datasets from the image . We can check this on main.ipynb
 # RESULT======================== SEE THIS
+![Solve Image](https://github.com/Ayushma99/Suduko_Solver_Using_AI/blob/master/solve.png)
