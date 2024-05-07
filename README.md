@@ -36,7 +36,8 @@ I have created custom datasets from the given suduko images to train the numbers
 
 ## Results
 For the results of the Sudoku solver in action, refer to the image below:
+![solve](https://github.com/Ayushma00/Suduko_Solver_Using_AI/assets/34135400/3b65d786-758e-4151-9727-ed2d03564f22)
 
-![Solved Sudoku](https://github.com/Ayushma99/Suduko_Solver_Using_AI/blob/master/solve.png)
+
 
 Feel free to explore the code and experiment with solving Sudoku puzzles using AI!
