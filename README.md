@@ -1,7 +1,42 @@
-# Suduko_Solver_Using_AI
-# This project  uses Open CV and Keras followed by backtracking algorithm to  solve any kind of suduko related problems.
-# Checkout main.ipynb to see how it all woks
-# modelmaking.ipynb to see the model training
-# I  have created my own datasets from the image . We can check this on main.ipynb
-# RESULT======================== SEE THIS
-![Solve Image](https://github.com/Ayushma99/Suduko_Solver_Using_AI/blob/master/solve.png)
+# Sudoku Solver Using AI
+
+This project utilizes OpenCV and Keras followed by a backtracking algorithm to solve various Sudoku puzzles.
+
+## Installation and Setup
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/Ayushma99/Suduko_Solver_Using_AI.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd Suduko_Solver_Using_AI
+   ```
+
+3. Install the required dependencies. You can use `pip` to install them from the `requirements.txt` file:
+   ```
+   pip install -r requirements.txt
+   ```
+
+4. Run Jupyter Notebook to explore the project:
+   ```
+   notebooks\final.ipynb
+   ```
+
+## How It Works
+To understand how the Sudoku solver works, check out the following files in notebooks folder:
+- **main.ipynb**: This notebook demonstrates the implementation of the solver and how it works.
+- **modelmaking.ipynb**: Here, you can find the process of training the model used for Sudoku solving.
+
+## Dataset Creation
+I have created custom datasets from the given suduko images to train the numbers. This datasets are saved in `images` folder Explore the dataset creation process in the `notebooks/main.ipynb` file.
+
+## Results
+For the results of the Sudoku solver in action, refer to the image below:
+
+![Solved Sudoku](https://github.com/Ayushma99/Suduko_Solver_Using_AI/blob/master/solve.png)
+
+Feel free to explore the code and experiment with solving Sudoku puzzles using AI!
